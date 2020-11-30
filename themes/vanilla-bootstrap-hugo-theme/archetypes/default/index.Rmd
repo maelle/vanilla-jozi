@@ -1,0 +1,7 @@
+---
+output: hugodown::md_document
+title: "{{ title }}"
+date: {{ date }}
+tags: []
+---
+
